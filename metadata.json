@@ -1,0 +1,6 @@
+{
+  "name": "Final MBBS PYQ",
+  "description": "Previous year exam questions (2010-2025 WBUHS) covering the 7 university subjects with exact textbook page references, custom PYQ question creation with AI-assisted high-yield point generation, SM-2 Spaced Repetition System (SRS) review algorithm for medical retention, Pomodoro focus timer, progress analytics, and AI problem solver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
